@@ -1,3 +1,13 @@
+This repository is reproduction of zisui compatibility issue of storybook v5.
+
+Enter below commands.
+
+`yarn storybook`
+
+`yarn zisui http://localhost:9009`
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
